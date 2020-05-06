@@ -1,0 +1,14 @@
+.main-container{
+    display: flex;
+}
+
+.personal-details{
+    width: 70%;
+    margin: 5px 30px;
+    padding: 10px 10px;
+    border-right: 1px solid gray;
+}
+.connections{
+
+    padding-left: 10px;
+}
