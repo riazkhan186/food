@@ -1,7 +1,7 @@
 var info = [
 
     {
-        name: 'riaz',
+        name: 'Riaz Uddin Khan',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 800,
@@ -9,7 +9,7 @@ var info = [
     },
 
     {
-        name: 'rakib',
+        name: 'Md. Rakib',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 1000,
@@ -17,7 +17,7 @@ var info = [
     },
 
     {
-        name: 'raihan',
+        name: 'Raihan',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 700,
@@ -25,7 +25,7 @@ var info = [
     },
 
     {
-        name: 'rizvi',
+        name: 'Rizvi',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 600,
@@ -33,7 +33,7 @@ var info = [
     },
 
     {
-        name: 'reamon',
+        name: 'Reamon',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 1200,
@@ -41,7 +41,7 @@ var info = [
     },
 
     {
-        name: 'reamon',
+        name: 'Reamon',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 1200,
@@ -49,7 +49,7 @@ var info = [
     },
 
     {
-        name: 'reamon',
+        name: 'Reamon',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 1200,
@@ -57,7 +57,7 @@ var info = [
     },
 
     {
-        name: 'riaz',
+        name: 'Riaz',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 800,
@@ -65,7 +65,7 @@ var info = [
     },
 
     {
-        name: 'rakib',
+        name: 'Rakib',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 1000,
@@ -73,7 +73,7 @@ var info = [
     },
 
     {
-        name: 'raihan',
+        name: 'Raihan',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 700,
@@ -81,7 +81,7 @@ var info = [
     },
 
     {
-        name: 'rizvi',
+        name: 'Rizvi',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 600,
@@ -89,7 +89,7 @@ var info = [
     },
 
     {
-        name: 'reamon',
+        name: 'Reamon',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 1200,
@@ -97,7 +97,7 @@ var info = [
     },
 
     {
-        name: 'reamon',
+        name: 'Reamon',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 1200,
@@ -105,7 +105,7 @@ var info = [
     },
 
     {
-        name: 'reamon',
+        name: 'Reamon',
         email: 'abc@gmail.com',
         phone: '0546855655',
         salary: 1200,

@@ -10,13 +10,17 @@
 }
 .details{
     padding-left: 10px;
+    margin-right: auto;
+    
 }
 .button1{
+    text-justify: auto;
     text-align: right;
     padding-top: 70px ;
-    padding-left: 350px;
+    padding-right: 10%;
 }
 .btn{
+    
     background-color: rgb(62, 137, 161);
     color: white;
     width: 70px;
