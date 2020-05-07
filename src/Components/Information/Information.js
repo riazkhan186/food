@@ -4,6 +4,7 @@ import { faPlus } from '@fortawesome/free-solid-svg-icons'
 import './Information.css'
 
 const Information = (props) => {
+    //console.log(props);
     const {img , name, email , phone, salary }= props.info1;
 
   //  console.log(props.info1.email);
@@ -17,12 +18,12 @@ const Information = (props) => {
                 <h2>Name : {name}</h2>
                 <h4>Email : {email}</h4>
                 <h4>Contact : {phone}</h4>
-                <h4>Salary : {salary}</h4>
+                <h4>Salary : $ {salary}</h4>
             </div>
             <div className="button1" 
                 >
                 <button className="btn"
-                onClick={()=>props.handleAdd(props.information)} //parameter of handleAdd
+                onClick={()=>props.handleAdd(props.info1)} //parameter of handleAdd
                 ><FontAwesomeIcon icon={faPlus} ></FontAwesomeIcon></button>
             </div>
             

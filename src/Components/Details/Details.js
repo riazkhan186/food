@@ -9,13 +9,8 @@ const Details = () => {
     const [information , setInformation] = useState (fakeData);
     const [connections , setConnections] =useState([]);
 
-   /* const newConnections =[...connections, information];
-        console.log(newConnections);
-        setConnections (newConnections);*/
-
     const handleAdd =(information)=>{
         const newConnections =[ ...connections , information];
-        console.log(newConnections);
         setConnections (newConnections);
     }
     
@@ -32,6 +27,7 @@ const Details = () => {
             <div className="connections">
                 <Connection 
                     conn={connections}
+                    
                 >
                 </Connection>
             </div>
